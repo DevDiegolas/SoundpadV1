@@ -1,0 +1,29 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vscode/
+.vs/
+*.dbmdl
+
+# Logs
+*.log
+
+# Executables
+*.exe
+*.dll
+
+# NAudio ou outros libs
+packages/
