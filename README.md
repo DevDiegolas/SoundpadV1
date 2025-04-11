@@ -1,13 +1,16 @@
-# 🎧 Soundpad Gamer - Efeitos Sonoros no Microfone
+# 🎧 Soundpad C# (WinForms + NAudio)
 
-Esse é um soundpad feito em C# com WinForms e NAudio. Ele permite que você toque efeitos sonoros (.mp3) diretamente no microfone usando o VB-Cable. Perfeito pra usar em jogos com voice chat como R.E.P.O, Valorant, etc.
+Um soundpad simples, funcional e personalizável criado em C# com Windows Forms e NAudio. Permite adicionar sons, configurar atalhos de teclado personalizados e escolher o dispositivo de saída de áudio (como o VB-Cable ou Voicemeeter).
 
 ## 🚀 Funcionalidades
 
-- Interface gráfica simples e direta
-- Reproduz efeitos sonoros no microfone
-- Suporte a arquivos `.mp3`
-- Organize seus sons na pasta `/sons`
+- ✅ Interface gráfica simples e intuitiva
+- 🔊 Reprodução de arquivos `.mp3`
+- 🎹 Atalhos de teclado personalizáveis
+- 💾 Atalhos persistem mesmo após fechar o programa
+- 🎚 Controle de volume
+- 🖥 Escolha do dispositivo de saída de som (ideal pra usar com Voicemeeter)
+- 🗑 Remoção de sons e atalhos com um clique
 
 ## 🛠️ Requisitos
 
